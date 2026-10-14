@@ -1,0 +1,1 @@
+Optional: place approved logo SVG/PNG and favicon assets here. Current prototype uses a text/SVG-inspired logo.
