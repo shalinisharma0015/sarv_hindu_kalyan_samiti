@@ -1,0 +1,1 @@
+Place approved local committee/temple photos here. The current demo uses remote Unsplash images referenced directly in HTML/CSS. Replace them with real, approved photos before production.
